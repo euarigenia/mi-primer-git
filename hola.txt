@@ -2,3 +2,4 @@
 También estoy aprendiendo Linux
 Estoy aprendiendo Git paso a paso
 Git me ayuda a guardar mis avances
+Ya entiendo mejor como funciona Git
