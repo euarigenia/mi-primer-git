@@ -1,0 +1,2 @@
+estoy aprendiendo git y github.
+ya hice mi primer push corretamente
