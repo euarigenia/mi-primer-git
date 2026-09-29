@@ -1,4 +1,4 @@
 estoy aprendiendo git y github.
 ya hice mi primer push corretamente
 estoy aprendiendo a comparar cambios con git
-este cambio pertenece ala rama prueba
+este cambio pertenece ala rama pruebaEstoy practicando git pull
