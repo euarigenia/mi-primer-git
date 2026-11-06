@@ -6,3 +6,4 @@ Estoy practicando git pull
 Estoy aprendiendo git fetch
 Este cambio pertenece a prueba-rama
 Cambio enviado desde mi copia clonada
+estoy retomando mis clases de git y github
